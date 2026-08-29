@@ -1,7 +1,7 @@
 ## Interface: 120100, 120007, 120005
 ## Title:|cffd6266cFastMoveTooltip|r
 ## Author: BloodDragon2580
-## Version: 1.6
+## Version: 1.7
 ## IconTexture: Interface\AddOns\FastMoveTooltip\Media\Texture\logo
 ## SavedVariables: FastMoveTooltipDB
 
